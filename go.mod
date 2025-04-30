@@ -1,4 +1,4 @@
-module github.com/boreq/bolt-ui
+module github.com/x64vps/bolt-ui
 
 require (
 	github.com/NYTimes/gziphandler v1.1.0
